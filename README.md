@@ -1,1 +1,1 @@
-# saldi_workshop
+# eo2cube_workshop
